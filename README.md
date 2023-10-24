@@ -44,6 +44,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MSOB7YY&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=namidaco&repo=namida&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/16190234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16190234" height="30" width="40" /></a>
@@ -57,8 +60,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/namidaco"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="namidaco" /></a><a href="https://ko-fi.com/namidaco"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="namidaco" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msob7yy&show_icons=true&locale=en&layout=compact" alt="msob7yy" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msob7yy&show_icons=true&locale=en&theme=dark" alt="msob7yy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msob7yy&show_icons=true&locale=en" alt="msob7yy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msob7yy&theme=dark&" alt="msob7yy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msob7yy&" alt="msob7yy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msob7yy&show_icons=true&locale=en&layout=compact&theme=dark" alt="msob7yy" /></p>
