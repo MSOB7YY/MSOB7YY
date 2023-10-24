@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm MSOB7Y</h1>
 <h3 align="center">Passionate App Dev who has some kind of perfectionism</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msob7yy&label=Profile%20views&color=0e75b6&style=flat" alt="msob7yy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msob7yy" alt="msob7yy" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=MSOB7YY&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on: [Namida](https://github.com/namidaco/namida)
 
@@ -22,6 +21,8 @@
 <a href="https://stackoverflow.com/users/16190234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16190234" height="30" width="40" /></a>
 <a href="https://discord.gg/WeY7DTVChT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WeY7DTVChT" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=msob7yy&label=Profile%20views&color=0e75b6&style=flat" alt="msob7yy" /> </p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/namidaco"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="namidaco" /></a><a href="https://ko-fi.com/namidaco"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="namidaco" /></a></p><br><br>
