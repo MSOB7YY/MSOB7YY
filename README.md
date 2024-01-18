@@ -53,6 +53,10 @@
 <a href="https://discord.gg/WeY7DTVChT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WeY7DTVChT" height="30" width="40" /></a>
 </p>
 
+<!---
+![](https://count.getloli.com/get/@MSOB7YY.github.readme)
+-->
+
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msob7yy&label=Profile%20views&color=0e75b6&style=flat" alt="msob7yy" /> </p>
