@@ -65,7 +65,7 @@
 <p><a href="https://www.buymeacoffee.com/namidaco"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="namidaco" /></a><a href="https://ko-fi.com/namidaco"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="namidaco" /></a></p><br><br>
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msob7yy&show_icons=true&locale=en&theme=dark" alt="msob7yy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msob7yy&include_orgs=true&show_icons=true&locale=en&theme=dark" alt="msob7yy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msob7yy&theme=dark&" alt="msob7yy" /></p>
 
