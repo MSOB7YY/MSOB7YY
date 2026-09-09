@@ -1,72 +1,125 @@
-<h1 align="center">Hi 👋, I'm MSOB7Y</h1>
-<h3 align="center">Passionate App Dev who has some kind of perfectionism</h3>
+<div align="center">
 
-- 🔭 I’m currently working on: [Namida](https://github.com/namidaco/namida)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1A12,45:6F4E37,100:C8A27A&height=200&section=header&text=MSOB7Y&fontSize=64&fontColor=F3E9DC&fontAlignY=36&desc=Passionate%20App%20Dev%20with%20some%20kind%20of%20perfectionism&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
 
-- 👨‍💻 All of my projects are available at: [https://github.com/namidaco](https://github.com/namidaco)
+<a href="https://github.com/namidaco/namida">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=8A7CFF&center=true&vCenter=true&width=560&lines=Building+Namida+%F0%9F%8E%B5;Flutter+%E2%80%A2+Dart+%E2%80%A2+Kotlin;Pixels+matter.+Performance+matters+more." alt="typing"/>
+</a>
 
+<br/>
+
+[![Namida](https://img.shields.io/badge/Namida-Music%20Player-8A7CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namidaco/namida)
+[![Stars](https://img.shields.io/github/stars/namidaco/namida?style=for-the-badge&logo=github&color=F5C518&label=Stars)](https://github.com/namidaco/namida/stargazers)
+[![Downloads](https://img.shields.io/github/downloads/namidaco/namida/total?style=for-the-badge&logo=android&logoColor=white&color=3DDC84&label=Downloads)](https://github.com/namidaco/namida/releases)
+[![Release](https://img.shields.io/github/v/release/namidaco/namida?style=for-the-badge&color=00B4D8&label=Latest)](https://github.com/namidaco/namida/releases/latest)
+
+</div>
+
+<br/>
+
+## 🧑‍💻 About
+
+- 🔭 Currently working on **[Namida](https://github.com/namidaco/namida)**
+- 👨‍💻 All projects are available at **https://github.com/namidaco**
 - 📫 Reach me on: **namida.coo@gmail.com**
+- 📄 Know about my experiences/projects: **[Repositories](https://github.com/MSOB7YY?tab=repositories)**
 
-- 📄 Know about my experiences/projects: [https://github.com/MSOB7YY](https://github.com/MSOB7YY)
+<br/>
 
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+<div align="center">
 
+**Mobile**<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio&perline=8" alt="mobile"/></a>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+**Web**<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,bootstrap&perline=8" alt="web"/></a>
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+**Backend & Tools**<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,python,firebase,git,postman,tensorflow,heroku&perline=8" alt="tools"/></a>
 
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+**Design & 3D**<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,xd,blender,unreal&perline=8" alt="design"/></a>
 
-<br>
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MSOB7YY&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
 
+## 📌 Featured
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=namidaco&repo=namida&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/namidaco/namida">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=namidaco&repo=namida&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=namidaco&repo=namida&theme=default&hide_border=true&bg_color=00000000" alt="Namida"/>
+    </picture>
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/16190234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16190234" height="30" width="40" /></a>
-<a href="https://discord.gg/WeY7DTVChT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WeY7DTVChT" height="30" width="40" /></a>
-</p>
+<br/>
 
-<!---
-![](https://count.getloli.com/get/@MSOB7YY.github.readme)
--->
+## 📊 Stats
 
-<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MSOB7YY&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=MSOB7YY&show_icons=true&include_all_commits=true&rank_icon=github&theme=default&hide_border=true&bg_color=00000000" alt="stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=MSOB7YY&theme=tokyonight&hide_border=true&background=00000000"/>
+    <img height="180" src="https://streak-stats.demolab.com/?user=MSOB7YY&theme=default&hide_border=true&background=00000000" alt="streak"/>
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MSOB7YY&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSOB7YY&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=00000000" alt="languages"/>
+  </picture>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MSOB7YY&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSOB7YY&theme=github-light&hide_border=true&bg_color=00000000&area=true" alt="activity"/>
+  </picture>
+  <br/><br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MSOB7YY&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msob7yy&label=Profile%20views&color=0e75b6&style=flat" alt="msob7yy" /> </p>
+<br/>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/namidaco"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="namidaco" /></a><a href="https://ko-fi.com/namidaco"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="namidaco" /></a></p><br><br>
+## 🐍 Contributions
 
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msob7yy&orgs=namidaco&include_orgs=true&show_icons=true&locale=en&theme=dark" alt="msob7yy" /></p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MSOB7YY/MSOB7YY/output/github-contribution-grid-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/MSOB7YY/MSOB7YY/output/github-contribution-grid-snake.svg" alt="snake"/>
+  </picture>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msob7yy&theme=dark&" alt="msob7yy" /></p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msob7yy&show_icons=true&locale=en&layout=compact&theme=dark" alt="msob7yy" /></p>
+## 🔗 Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-namida.coo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namida.coo@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WeY7DTVChT)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16190234)
+
+</div>
+
+## ☕ Support
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-namidaco-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/namidaco)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-namidaco-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/namidaco)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=msob7yy&label=Profile%20views&color=8A7CFF&style=for-the-badge" alt="views"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A27A,55:6F4E37,100:2B1A12&height=100&section=footer" width="100%" alt="footer"/>
